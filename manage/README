@@ -1,0 +1,8 @@
+要用到此项目时你需要在你的pip中安装：
+pip install django-cors-headers
+pip install djangorestframework
+pip install django
+确保检查安装配置请使用pip list
+然后启动这个项目python manage.py runserver
+
+

@@ -1,0 +1,2 @@
+python manage.py runserver
+python manage.py inspectdb --database default 数据库对应的表 | Out-File -Encoding utf8 apps/cart/models.py
